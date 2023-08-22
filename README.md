@@ -4,9 +4,9 @@
 
 * **Project objective:** 
 
-    **1.** Created a customer performance report 
+    **1.** Created a [customer performance report](https://github.com/abdiwahidabdullahi/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)
 
-    **2.** Conduct a P & L statement for different quarters of all the fiscal years
+    **2.** Created a [P & L statement for different quarters of all the fiscal years](https://github.com/abdiwahidabdullahi/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
